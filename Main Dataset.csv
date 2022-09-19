@@ -1,0 +1,158 @@
+﻿Transaction Number ,Customer ID,Time stamp,Category,Amount,First,Last,Gender,Street,City,Is_fraud,Credit Limit ,No of Transactions,Amounts received per day ,Card Type ,Authentication 
+19,4.96,01/01/2019 00:12,grocery_pos,"965,721",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",2,"82,475",Platinum ,Success
+1009,4.96,01/01/2019 12:44,food_dining,"413,052",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"32,555",Platinum ,Success
+2426,4.96,02/01/2019 00:25,gas_transport,"584,822",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"10,173",Platinum ,Success
+2851,4.96,02/01/2019 12:01,misc_pos,"980,146",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"12,342",Platinum ,Success
+3958,4.96,03/01/2019 10:54,misc_net,"926,072",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,1,"1,000,000",3,"17,157",Platinum ,Failed
+4223,4.96,03/01/2019 15:19,shopping_net,"482,394",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"10,003",Platinum ,Success
+4603,4.96,03/01/2019 21:32,food_dining,"718,346",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",2,"14,325",Platinum ,Success
+5763,4.96,04/01/2019 17:57,health_fitness,"491,598",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",3,"15,098",Platinum ,Success
+5792,4.96,04/01/2019 18:12,shopping_pos,"848,852",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"19,224",Platinum ,Success
+5819,4.96,04/01/2019 18:39,misc_pos,"396,139",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",2,"67,932",Platinum ,Success
+7104,4.96,05/01/2019 16:38,shopping_net,"856,974",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"28,006",Platinum ,Success
+7919,4.96,06/01/2019 03:45,grocery_pos,"855,990",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",2,"27,803",Platinum ,Success
+8312,4.96,06/01/2019 09:49,gas_transport,"924,776",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",2,"19,226",Platinum ,Success
+8604,4.96,06/01/2019 13:27,home,"204,850",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"25,435",Platinum ,Success
+9054,4.96,06/01/2019 17:56,health_fitness,"780,669",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",3,"30,283",Platinum ,Success
+9273,4.96,06/01/2019 20:07,shopping_net,"887,442",Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,0,"1,000,000",1,"64,711",Platinum ,Success
+51250,6.59,30/01/2019 23:16,kids_pets,"297,820",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",2,"42,187",Platinum ,Success
+51528,6.59,31/01/2019 05:41,grocery_net,"687,879",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",3,"98,637",Platinum ,Success
+53779,6.59,01/02/2019 20:58,personal_care,"738,456",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"21,304",Platinum ,Success
+56675,6.59,03/02/2019 15:56,shopping_net,"378,535",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"73,556",Platinum ,Success
+59880,6.59,04/02/2019 23:48,shopping_pos,"334,116",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",2,"36,610",Platinum ,Success
+61639,6.59,05/02/2019 19:02,home,"772,360",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"80,962",Platinum ,Success
+70418,6.59,11/02/2019 11:08,misc_net,"580,796",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"46,701",Platinum ,Success
+71568,6.59,11/02/2019 20:56,shopping_pos,"855,465",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"66,856",Platinum ,Success
+77745,6.59,15/02/2019 19:25,food_dining,"978,989",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",3,"33,911",Platinum ,Success
+79300,6.59,16/02/2019 21:09,health_fitness,"451,874",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"62,217",Platinum ,Success
+79838,6.59,17/02/2019 05:09,grocery_net,"670,750",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",2,"43,442",Platinum ,Success
+80317,6.59,17/02/2019 11:50,grocery_pos,"977,951",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",3,"65,584",Platinum ,Success
+81191,6.59,17/02/2019 20:44,kids_pets,"403,466",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"98,793",Platinum ,Success
+82477,6.59,18/02/2019 12:02,personal_care,"861,177",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"70,277",Platinum ,Success
+83595,6.59,18/02/2019 21:20,home,"528,612",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",1,"22,539",Platinum ,Success
+84070,6.59,19/02/2019 01:55,grocery_pos,"339,670",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,0,"1,000,000",3,"29,657",Platinum ,Success
+85218,6.59,20/02/2019 22:05,misc_net,"326,162",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,1,"1,000,000",1,0,Platinum ,Success
+90210,6.59,20/02/2019 22:10,misc_net,"390,534",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,1,"1,000,000",2,0,Platinum ,Success
+40230,6.59,20/02/2019 22:18,misc_net,"204,850",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,1,"1,000,000",3,0,Platinum ,Success
+77770,6.59,20/02/2019 22:31,misc_net,"331,349",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,1,"1,000,000",4,0,Platinum ,Success
+22045,6.59,20/02/2019 22:51,misc_net,"515,263",Amanda,Molina,F,8425 Daniel Knolls Suite 288,Philadelphia,1,"1,000,000",5,0,Platinum ,Success
+19277,2.23,12/01/2019 18:03,home,"563,751",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"22,770",Gold,Success
+20013,2.23,13/01/2019 04:41,gas_transport,"161,930",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",2,"86,409",Gold,Success
+21708,2.23,14/01/2019 00:05,grocery_net,"352,806",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",3,"44,060",Gold,Success
+22174,2.23,14/01/2019 05:50,grocery_net,"207,755",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"95,466",Gold,Success
+22386,2.23,14/01/2019 08:35,misc_pos,"489,540",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"25,557",Gold,Success
+22846,2.23,14/01/2019 13:49,kids_pets,"274,395",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"33,735",Gold,Success
+23536,2.23,14/01/2019 19:17,entertainment,566945,Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"66,024",Gold,Success
+23633,2.23,14/01/2019 20:05,home,"105,690",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",2,"40,135",Gold,Success
+23667,2.23,14/01/2019 20:17,health_fitness,"694,888",Thomas,Hale,M,949 Smith Parkway,Cazenovia,0,"700,000",1,"67,884",Gold,Success
+48001,3.73,29/01/2019 01:39,grocery_pos,"211,899",Bobby,Smith,M,3495 Williams Stream,San Diego,0,"400,000",1,"47,886",Signature,Success
+48035,3.73,29/01/2019 01:59,misc_net,"277,645",Bobby,Smith,M,3495 Williams Stream,San Diego,0,"400,000",1,"80,493",Signature,Success
+48167,3.73,29/01/2019 03:59,grocery_pos,"326,162",Bobby,Smith,M,3495 Williams Stream,San Diego,0,"400,000",3,"88,834",Signature,Success
+50125,3.73,29/01/2019 23:36,shopping_pos,"316,946",Bobby,Smith,M,3495 Williams Stream,San Diego,0,"400,000",1,"26,241",Signature,Success
+50959,3.73,30/01/2019 17:57,home,"122,373",Bobby,Smith,M,3495 Williams Stream,San Diego,0,"400,000",2,"24,935",Signature,Success
+586,6.04,01/01/2019 07:36,grocery_pos,"640,653",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",3,"89,201",Platinum ,Success
+5240,6.04,04/01/2019 10:07,grocery_pos,"745,493",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",2,"31,362",Platinum ,Success
+5886,6.04,04/01/2019 19:25,home,"868,021",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",3,"31,436",Platinum ,Success
+29421,6.04,05/02/2019 07:25,misc_pos,"688,577",Bradley,Martinez,M,,Cape Town,1,"900,000",1,"83,263",Platinum ,Success
+54021,6.04,05/02/2019 08:25,misc_pos,"390,534",Bradley,Martinez,M,,Cape Towm ,1,"900,000",2,0,Platinum ,Success
+11817,6.04,07/01/2019 21:33,personal_care,"284,923",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",1,"55,134",Platinum ,Success
+12867,6.04,08/01/2019 10:02,shopping_net,"814,422",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",1,"73,503",Platinum ,Success
+15007,6.04,09/01/2019 14:31,health_fitness,"599,741",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",1,"57,402",Platinum ,Success
+16977,6.04,11/01/2019 03:10,grocery_pos,"804,560",Bradley,Martinez,M,3426 David Divide Suite 717,Burns Flat,0,"900,000",1,"40,230",Platinum ,Success
+788,5.81,01/01/2019 10:08,gas_transport,"996,291",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",2,"73,312",Platinum ,Success
+1654,5.81,01/01/2019 17:41,health_fitness,"477,553",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"54,597",Platinum ,Success
+2922,5.81,02/01/2019 13:22,personal_care,"216,028",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"37,157",Platinum ,Success
+3930,5.81,03/01/2019 10:02,entertainment,"275,427",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"32,628",Platinum ,Success
+4779,5.81,04/01/2019 00:13,grocery_pos,"722,048",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",3,"27,905",Platinum ,Success
+5499,5.81,04/01/2019 14:23,kids_pets,"292,365",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"90,010",Platinum ,Success
+5901,5.81,04/01/2019 19:32,kids_pets,"400,393",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",2,"54,528",Platinum ,Success
+6444,5.81,05/01/2019 04:25,entertainment,"219,720",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",3,"72,258",Platinum ,Success
+6503,5.81,05/01/2019 05:45,shopping_pos,"981,404",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"41,106",Platinum ,Success
+8281,5.81,06/01/2019 09:13,grocery_net,"639,670",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",2,"66,091",Platinum ,Success
+9483,5.81,06/01/2019 22:02,personal_care,"814,333",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",1,"55,737",Platinum ,Success
+9920,5.81,07/01/2019 02:50,shopping_pos,"569,582",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",2,"54,979",Platinum ,Success
+10138,5.81,07/01/2019 05:37,shopping_net,"954,111",Jessica,Benitez,F,31281 Thomas Inlet,Montrose,0,"1,000,000",2,"34,013",Platinum ,Success
+13096,3.72,08/01/2019 12:34,home,"235,267",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",1,"26,541",Signature,Success
+14659,3.72,09/01/2019 06:27,grocery_net,"193,651",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",2,"35,818",Signature,Success
+14729,3.72,09/01/2019 08:18,grocery_pos,"590,800",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,1,"400,000",3,"99,168",Signature,Failed 
+14930,3.72,09/01/2019 13:13,kids_pets,"107,647",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",1,"53,376",Signature,Success
+16829,3.72,11/01/2019 00:03,gas_transport,"334,396",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",2,"82,974",Signature,Success
+18808,3.72,12/01/2019 11:46,grocery_pos,"224,414",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",1,"44,152",Signature,Success
+19094,3.72,12/01/2019 15:40,kids_pets,"203,194",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",2,"55,078",Signature,Success
+23501,3.72,14/01/2019 19:00,health_fitness,"250,410",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",2,"83,587",Signature,Success
+24286,3.72,15/01/2019 02:08,misc_net,"330,697",Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,0,"400,000",1,"54,049",Signature,Success
+13273,3.58,08/01/2019 14:08,misc_pos,"590,800",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",2,"52,597",Gold,Success
+14592,3.58,09/01/2019 04:22,misc_net,"438,570",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",3,"78,939",Gold,Success
+14931,3.58,09/01/2019 13:13,kids_pets,"380,409",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",1,"68,947",Gold,Success
+15404,3.58,09/01/2019 21:22,shopping_pos,"501,631",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",2,"49,907",Gold,Success
+15518,3.58,09/01/2019 23:04,health_fitness,"390,534",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",1,"66,510",Gold,Success
+16093,3.58,10/01/2019 13:11,shopping_net,"423,661",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",2,"99,807",Gold,Success
+16186,3.58,10/01/2019 14:23,home,"436,294",Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,0,"600,000",2,"93,420",Gold,Success
+25078,4.04,15/01/2019 12:27,home,"537,050",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",1,"82,342",Platinum ,Success
+26844,4.04,16/01/2019 08:11,shopping_pos,"899,343",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",1,"28,291",Platinum ,Success
+27214,4.04,16/01/2019 15:30,home,"834,691",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",2,"41,867",Platinum ,Success
+28444,4.04,17/01/2019 16:12,entertainment,"240,216",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",1,"80,494",Platinum ,Success
+30280,4.04,18/01/2019 23:58,personal_care,"424,370",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",2,"68,660",Platinum ,Success
+30432,4.04,19/01/2019 03:08,misc_net,"593,991",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",2,"56,122",Platinum ,Success
+30789,4.04,19/01/2019 11:06,misc_pos,"768,467",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",1,"76,253",Platinum ,Success
+32444,4.04,20/01/2019 11:41,grocery_pos,"781,959",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,0,"900,000",2,"32,794",Platinum ,Success
+33825,4.04,21/01/2019 02:22,misc_pos,"553,907",Jeffrey,Lewis,M,24255 Bryan Square,Palermo,1,"900,000",3,"49,298",Platinum ,Failed 
+6049,5.72,04/01/2019 21:34,kids_pets,"308,622",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"36,923",Gold,Success
+6590,5.72,05/01/2019 07:26,grocery_pos,"312,334",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"98,383",Gold,Success
+9840,5.72,07/01/2019 01:56,shopping_pos,"586,474",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"77,671",Gold,Success
+9955,5.72,07/01/2019 03:19,food_dining,"521,237",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"66,463",Gold,Success
+10331,5.72,07/01/2019 08:07,misc_net,"446,266",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"46,672",Gold,Success
+12229,5.72,08/01/2019 01:38,grocery_pos,"511,168",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"89,638",Gold,Success
+13613,5.72,08/01/2019 17:12,health_fitness,"608,438",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"71,200",Gold,Success
+14477,5.72,09/01/2019 01:17,gas_transport,"473,519",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"24,686",Gold,Success
+15460,5.72,09/01/2019 22:10,home,"688,577",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"85,872",Gold,Success
+16333,5.72,10/01/2019 16:46,personal_care,"686,619",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"58,188",Gold,Success
+18324,5.72,12/01/2019 01:11,misc_pos,"255,982",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",2,"64,642",Gold,Success
+18510,5.72,12/01/2019 05:43,entertainment,"464,656",Susan,Mills,F,005 Cody Estates,Louisville,0,"700,000",1,"68,708",Gold,Success
+44421,1.8,27/01/2019 14:02,misc_pos,"212,319",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",3,"97,302",Gold,Success
+47483,1.8,28/01/2019 21:06,shopping_net,"307,563",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",1,"94,439",Gold,Success
+47941,1.8,29/01/2019 00:51,gas_transport,"407,564",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",2,"41,442",Gold,Success
+48097,1.8,29/01/2019 03:04,gas_transport,"331,349",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",3,"40,850",Gold,Success
+49050,1.8,29/01/2019 14:42,misc_net,"391,325",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",2,"98,446",Gold,Success
+50302,1.8,30/01/2019 02:57,gas_transport,"530,244",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",3,"91,999",Gold,Success
+53221,1.8,01/02/2019 13:26,food_dining,"568,736",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",1,"53,510",Gold,Success
+54282,1.8,02/02/2019 05:34,grocery_net,"517,448",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",1,"97,830",Gold,Success
+56980,1.8,03/02/2019 18:53,misc_net,"588,531",Richard,Barnes,M,1339 Johnson Landing Suite 007,De Lancey,0,"600,000",1,"88,040",Gold,Success
+432390,5.02,13/07/2019 01:26,grocery_pos,"474,729",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",1,"44,724",Gold,Success
+432649,5.02,13/07/2019 03:46,grocery_pos,"590,841",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",2,"38,219",Gold,Success
+435491,5.02,13/07/2019 23:41,shopping_pos,"608,427",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",1,"77,585",Gold,Success
+435755,5.02,14/07/2019 01:50,grocery_pos,"719,835",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,1,"750,000",1,"832,630",Gold,Failed 
+435996,5.02,14/07/2019 03:52,gas_transport,"375,139",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",1,"45,852",Gold,Success
+438059,5.02,14/07/2019 17:06,shopping_pos,"229,589",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",3,"44,099",Gold,Success
+439223,5.02,14/07/2019 22:59,shopping_pos,"376,453",Angelica,Lopez,F,9599 Washington Field Suite 238,New York City,0,"750,000",1,"49,012",Gold,Success
+41032,6.3,25/01/2019 06:51,gas_transport,"360,009",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"89,707",Platinum ,Success
+47513,6.3,28/01/2019 21:27,kids_pets,"770,346",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",3,"43,194",Platinum ,Success
+48231,6.3,29/01/2019 04:53,gas_transport,"489,043",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",1,"22,807",Platinum ,Success
+52647,6.3,01/02/2019 02:25,grocery_pos,"503,037",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"75,764",Platinum ,Success
+54616,6.3,02/02/2019 12:30,home,"731,261",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",1,"91,987",Platinum ,Success
+56434,6.3,03/02/2019 13:25,food_dining,"262,755",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"60,561",Platinum ,Success
+59004,6.3,04/02/2019 16:56,health_fitness,"825,475",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"50,085",Platinum ,Success
+63783,6.3,07/02/2019 10:12,misc_net,"922,630",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",1,"48,813",Platinum ,Success
+64568,6.3,07/02/2019 22:36,health_fitness,"752,172",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"93,782",Platinum ,Success
+65858,6.3,08/02/2019 20:44,entertainment,"418,009",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",3,"31,587",Platinum ,Success
+66160,6.3,09/02/2019 01:20,shopping_pos,"994,537",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",1,"56,762",Platinum ,Success
+66406,6.3,09/02/2019 06:56,misc_net,"922,206",Heather,Stanton,F,445 Jerry Lights Apt. 081,Republic,0,"1,000,000",2,"55,512",Platinum ,Success
+191696,3.86,08/04/2019 19:54,misc_pos,"389,097",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"49,884",Platinum ,Success
+192429,3.86,09/04/2019 01:15,gas_transport,"880,778",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"75,261",Platinum ,Success
+193412,3.86,09/04/2019 18:31,personal_care,"327,971",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"49,454",Platinum ,Success
+194452,3.86,10/04/2019 11:29,grocery_pos,"689,201",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"99,675",Platinum ,Success
+196303,3.86,11/04/2019 12:33,personal_care,"792,440",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"24,557",Platinum ,Success
+196817,3.86,11/04/2019 18:11,home,602222,Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",3,"97,438",Platinum ,Success
+197319,3.86,12/04/2019 00:21,gas_transport,"502,399",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"84,663",Platinum ,Success
+198723,3.86,12/04/2019 19:09,home,"272,804",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"63,547",Platinum ,Success
+200826,3.86,13/04/2019 15:44,kids_pets,"613,280",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"22,451",Platinum ,Success
+203293,3.86,14/04/2019 13:06,shopping_pos,"876,491",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"47,867",Platinum ,Success
+203323,3.86,14/04/2019 13:19,food_dining,820217,Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",2,"99,070",Platinum ,Success
+204950,3.86,14/04/2019 23:38,home,"294,184",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"22,856",Platinum ,Success
+205941,3.86,15/04/2019 09:19,gas_transport,"515,263",Jacqueline,Curry,F,3047 Jeff Place,Marathon,0,"900,000",1,"29,773",Platinum ,Success
+105325,2.13,02/03/2019 12:44,kids_pets,"338,527",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",1,"55,926",Signature,Success
+105392,2.13,02/03/2019 13:12,misc_pos,"334,683",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",2,"80,990",Signature,Success
+106083,2.13,02/03/2019 18:13,shopping_net,"454,570",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",3,"42,831",Signature,Success
+106493,2.13,02/03/2019 21:15,kids_pets,"454,519",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",1,"27,506",Signature,Success
+106857,2.13,02/03/2019 23:59,kids_pets,"358,047",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",2,"84,565",Signature,Success
+107820,2.13,03/03/2019 09:43,gas_transport,"465,281",Rebecca,Conley,F,181 Moreno Light Apt. 215,Tomahawk,0,"500,000",3,"30,249",Signature,Success
